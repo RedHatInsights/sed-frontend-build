@@ -1,0 +1,12 @@
+{
+  "app_name": "sed",
+  "src_hash": "537d04643dbd9f4452e5cc60b57fbe19f50af506",
+  "src_tag": "",
+  "src_branch": "master",
+  "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-table@4.20.15"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "5",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/sed-frontend/builds/215916343"
+  }
+}
