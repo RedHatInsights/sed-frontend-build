@@ -1,12 +1,12 @@
 {
-  "app_name": "sed",
-  "src_hash": "a5d36f5718730880f67949168d18285af46202a9",
+  "app_name": "connector",
+  "src_hash": "dcb1e8d94b680a5b72d22fd4b520d71a2c0a66b4",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-table@4.20.15"],
   "travis": {
     "event_type": "push",
-    "build_number": "14",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/sed-frontend/builds/217469847"
+    "build_number": "19",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/sed-frontend/builds/221660508"
   }
 }
