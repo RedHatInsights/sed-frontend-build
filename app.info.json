@@ -1,12 +1,12 @@
 {
   "app_name": "connector",
-  "src_hash": "55b2e0e601bafb07c89acd15ee86e7c3e6138d59",
+  "src_hash": "c504c45f24a12ff32dc5ef08709f70dc4a44cf50",
   "src_tag": "",
   "src_branch": "prod-stable",
   "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-icons@4.9.9","@patternfly/react-table@4.20.15"],
   "travis": {
     "event_type": "push",
-    "build_number": "62",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/sed-frontend/builds/226190459"
+    "build_number": "76",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/233772036"
   }
 }
