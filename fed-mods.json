@@ -1,10 +1,10 @@
 {
     "connector": {
         "entry": [
-            "/apps/connector/connector.32006c13a8fac7a45a8b.js"
+            "/apps/connector/connector.147b363c21389b32b621.js"
         ],
         "modules": [
-            "/apps/connector/js/412.2957a46c200079e64f00.js"
+            "/apps/connector/js/412.fb16f5f566770f0213a8.js"
         ]
     }
 }
