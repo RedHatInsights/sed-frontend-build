@@ -8,7 +8,7 @@
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/config-manager-client@1.0.75","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.12","@redhat-cloud-services/frontend-components@3.8.4"],
   "travis": {
     "event_type": "push",
-    "build_number": "138",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/249544971"
+    "build_number": "139",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/249571639"
   }
 }
