@@ -1,11 +1,11 @@
 {
     "connector": {
         "entry": [
-            "/apps/connector/connector.1661346695649.678f22583f46151faad6.js"
+            "/apps/connector/connector.1666636880172.689727227579b96c7238.js"
         ],
         "modules": [
-            "/apps/connector/js/2539.1661346695591.678f22583f46151faad6.js",
-            "/apps/connector/css/2539.42efaea8d5973774bd99.css"
+            "/apps/connector/js/1163.1666636880102.689727227579b96c7238.js",
+            "/apps/connector/css/1163.c1c2ef14043fcdca005d.css"
         ]
     }
 }
