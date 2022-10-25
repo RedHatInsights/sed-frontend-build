@@ -1,14 +1,14 @@
 {
   "app_name": "connector",
   "node_version": "unknown",
-  "src_hash": "43830c57433b3c8b5df0f02a84d41d51cf6e1a8b",
+  "src_hash": "dcb88b13390e6d47077c19b29643ea3dac27f633",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.202.9","@patternfly/react-icons@4.65.1","@patternfly/react-table@4.71.9"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/config-manager-client@1.0.77","@redhat-cloud-services/frontend-components-notifications@3.2.6","@redhat-cloud-services/frontend-components-utilities@3.2.16","@redhat-cloud-services/frontend-components@3.9.2"],
   "travis": {
     "event_type": "push",
-    "build_number": "260",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/256963240"
+    "build_number": "267",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/257051755"
   }
 }
