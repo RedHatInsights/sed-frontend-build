@@ -1,10 +1,10 @@
 {
     "connector": {
         "entry": [
-            "/beta/apps/connector/connector.1670524927540.aa32d327d9e6cbc37b74.js"
+            "/beta/apps/connector/connector.1671723239477.09945876289d1a71022e.js"
         ],
         "modules": [
-            "/beta/apps/connector/js/1163.1670524927484.aa32d327d9e6cbc37b74.js",
+            "/beta/apps/connector/js/1163.1671723239402.09945876289d1a71022e.js",
             "/beta/apps/connector/css/1163.c1c2ef14043fcdca005d.css"
         ]
     }
