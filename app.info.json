@@ -1,14 +1,14 @@
 {
   "app_name": "connector",
   "node_version": "unknown",
-  "src_hash": "35919b9691c187f0def3154d857f7443eb14cf1b",
+  "src_hash": "f982c6aba3f0634de4cabe207880c1fc82558d8e",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/react-core@4.202.9","@patternfly/react-icons@4.65.1","@patternfly/react-table@4.71.9"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/config-manager-client@1.0.83","@redhat-cloud-services/frontend-components-notifications@3.2.6","@redhat-cloud-services/frontend-components-utilities@3.2.16","@redhat-cloud-services/frontend-components@3.9.18"],
+  "patternfly_dependencies": ["@patternfly/react-core@4.267.6","@patternfly/react-icons@4.93.3","@patternfly/react-table@4.112.6"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/config-manager-client@1.0.83","@redhat-cloud-services/frontend-components-notifications@3.2.6","@redhat-cloud-services/frontend-components-utilities@3.3.11","@redhat-cloud-services/frontend-components@3.9.28"],
   "travis": {
     "event_type": "push",
-    "build_number": "396",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/259369037"
+    "build_number": "402",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/sed-frontend/builds/259665529"
   }
 }
